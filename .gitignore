@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+
+# Development/IDE Files
+.vscode/
+.idea/
+
+# Logs and Temporary Files
+*.log
+*.swp
+*.swo
+
+# Database Files
+*.sqlite3
+
+# Media and Static Files (if not served from CDN)
+/media/
+/static/
+
+# Dependency Files
+node_modules/
+yarn-error.log
+*.lock
